@@ -13,10 +13,10 @@ Projeto simples desenvolvido em Python para calcular a média de alunos e inform
 - Cadastro do nome do aluno
 - Entrada de três notas
 - Cálculo automático da média
-- Classificação da situação
+- classificação da situação 
 - Opção de cadastrar vários alunos
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas 
 
 - Python
 
