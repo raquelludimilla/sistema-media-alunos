@@ -6,7 +6,7 @@ Simple Python project to calculate student averages and show their status.
 
 - Approved
 - Recovery
-- Failed
+- Reprovado
 
 ## Features
 
