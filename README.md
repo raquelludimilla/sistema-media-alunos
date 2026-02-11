@@ -1,6 +1,8 @@
 # Sistema de Média de Alunos
 
-Projeto simples desenvolvido em Python para calcular a média de alunos e informar sua situação:
+Projeto simples desenvolvido em Python para calcular a média de alunos e informar sua situação.
+
+## Situação do aluno
 
 - Aprovado
 - Recuperação
@@ -8,7 +10,7 @@ Projeto simples desenvolvido em Python para calcular a média de alunos e inform
 
 ## Funcionalidades
 
-- Cadastro de nome do aluno
+- Cadastro do nome do aluno
 - Entrada de três notas
 - Cálculo automático da média
 - Classificação da situação
