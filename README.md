@@ -1,23 +1,21 @@
-# Sistema de Média de Alunos
+# Student Grade System
 
-Projeto simples desenvolvido em Python para calcular a média de alunos e informar sua situação.
+Simple Python project to calculate student averages and show their status.
 
-## Situação do aluno
+## Student Status
 
-- Aprovado
-- Recuperação
-- Reprovado
+- Approved
+- Recovery
+- Failed
 
-## Funcionalidades
+## Features
 
-- Cadastro do nome do aluno
-- Entrada de três notas
-- Cálculo automático da média
-- classificação da situação 
-- Opção de cadastrar vários alunos
+- Student name input
+- Three grade input
+- Automatic average calculation
+- Status classification
+- Option to register multiple students
 
-## Tecnologias utilizadas 
+## Technologies Used
 
 - Python
-
-
